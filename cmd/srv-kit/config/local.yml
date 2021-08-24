@@ -1,0 +1,4 @@
+App:
+  name: srv-kit
+  port: :666
+  mode: debug
